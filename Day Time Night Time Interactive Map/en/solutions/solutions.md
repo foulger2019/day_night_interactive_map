@@ -26,6 +26,7 @@
 ```
 
 Challenge
+This challenge cannot be completed in the browser version of Wolfram. Please use the desktop application.
 
 ```
 Manipulate[
